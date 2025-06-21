@@ -1,3 +1,5 @@
+![aquamelon_logo_text-2](https://github.com/user-attachments/assets/9ccdbc31-cc9e-44e5-a60d-6d4a1e91dc32)
+
 # AquaMelon
 
 A refreshing, watermelon-inspired VS Code theme with cool summer vibes and compelling pastel tones.
@@ -13,7 +15,7 @@ A refreshing, watermelon-inspired VS Code theme with cool summer vibes and compe
 
 ## 📸 Preview
 
-<img width="1512" alt="Screenshot 2025-05-20 at 14 55 51" src="https://github.com/user-attachments/assets/99e3e509-42cc-4db6-8374-02d72df03143" />
+<img width="1512" alt="Screenshot 2025-06-21 at 15 23 53" src="https://github.com/user-attachments/assets/bafc814b-38ad-4ac5-b903-d2ef41d51aa4" />
 
 ## 🚀 Installation
 
