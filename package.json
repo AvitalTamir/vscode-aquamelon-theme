@@ -1,0 +1,32 @@
+{
+  "name": "aquamelon",
+  "displayName": "aquamelon",
+  "description": "A refreshing, watermelon-inspired VS Code theme with cool summer vibes and compelling pastel tones",
+  "version": "0.0.2",
+  "icon": "icon.png",
+  "author": {
+    "name": "Avital Tamir",
+    "email": "avital@cyphernet.es",
+    "url": "https://github.com/AvitalTamir"
+  },
+  "publisher": "Cyphernetes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AvitalTamir/vscode-aquamelon-theme"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AquaMelon",
+        "uiTheme": "vs",
+        "path": "./themes/AquaMelon-color-theme.json"
+      }
+    ]
+  }
+}
