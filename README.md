@@ -15,7 +15,7 @@ A refreshing, watermelon-inspired VS Code theme with cool summer vibes and compe
 
 ## 📸 Preview
 
-<img width="1512" alt="Screenshot 2025-06-21 at 15 23 53" src="https://github.com/user-attachments/assets/bafc814b-38ad-4ac5-b903-d2ef41d51aa4" />
+<img width="1512" alt="Screenshot 2025-06-21 at 21 14 03" src="https://github.com/user-attachments/assets/985a0b8a-6627-495f-97d4-d8b7aa6a230e" />
 
 ## 🚀 Installation
 
